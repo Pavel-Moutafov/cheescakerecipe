@@ -1,0 +1,30 @@
+h1 {
+  text-align:center;
+  color:rebeccapurple;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 50px;
+}
+p{
+  font-size:30px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  color: blue;
+  font-size: 30px;
+}
+ul {
+  font-size: 30px;
+  padding-right: 500px;
+}
+ ol{
+  font-size: 30px;
+}
+.container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+p2{
+  font-size: 15px;
+}
